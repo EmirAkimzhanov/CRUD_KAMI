@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "email": "sultan@gmail.com",
+      "password": "$2a$10$gFwh40gxPlxCFRbikEfvAOWnsU2UUiOpcsc1JDCLtcKLTba6PhMoC",
+      "admin": true,
+      "id": 2
+    },
+    {
+      "email": "ass@ass",
+      "password": "$2a$10$xb3pMtQD6wMyNvXL5un4VuyQBoGOYuGumO/9MzNCs3r2jXE7ohT5e",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "email": "emir.akimzhanov@gmail.com",
+      "password": "$2a$10$I.ybjugpe6y4Y68QrILuO.tHOdnXUvwa1QvDNe4JRRbpd5O5t3zwK",
+      "admin": true,
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "title": "snowboard",
+      "description": "men's snowboard",
+      "price": 130000,
+      "image": "https://www.atbshop.co.uk/galleries/14876/Burton-feelgood-womens-snowboard-19-20%20(1%20of%202).jpg",
+      "image2": "https://www.atbshop.co.uk/galleries/18105/Endeavor-2017-new-standard-Snowboards-Springbreak-2.jpg",
+      "image3": "https://www.atbshop.co.uk/galleries/18106/Endeavor-2017-Snowboards-live-Springbreak-3.jpg",
+      "category": "snowboard",
+      "astana": "140000",
+      "almaty": "130000",
+      "nursultan": "150000",
+      "szymkent": "10000",
+      "id": 3
+    },
+    {
+      "title": "ski",
+      "description": "ski",
+      "price": 140000,
+      "image": "https://images.evo.com/imgp/700/138379/586743/clone.jpg",
+      "image2": "https://freeglisse.com/32162-thickbox_default/adult-used-skiing-all-models-all-brands-at-29-degrees-fixations.jpg",
+      "image3": "https://freeglisse.com/32154-large_default/adult-used-skiing-all-models-all-brands-at-15-fixations.jpg",
+      "category": "ski",
+      "astana": "140000",
+      "almaty": "132400",
+      "nursultan": "431250",
+      "szymkent": "5000",
+      "id": 4
+    },
+    {
+      "title": "balaclava",
+      "description": "balaclava",
+      "price": 4322,
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/4hccd6bmzoz7-KZ/image;s=1000x700",
+      "image2": "http://content.onliner.by/forum/b45/7fc/704822/800x800/008a4cb5a5fea0fbf7f35f172b0a6cab.jpg",
+      "image3": "https://img.joomcdn.net/ce3a42cee517287d9615b55db16928d3c8ef7e81_original.jpeg",
+      "category": "balaclava",
+      "astana": "5020",
+      "almaty": "6589",
+      "nursultan": "3241",
+      "szymkent": "4432",
+      "id": 5
+    },
+    {
+      "title": "ski sticks",
+      "description": "ski sticks",
+      "price": 1300,
+      "image": "http://www.ems.com/on/demandware.static/-/Sites-vestis-master-catalog/default/dwf141f8b5/product/images/2016/578/2016578/2016578_408_alt1.jpg",
+      "image2": "https://www.bfgcdn.com/1500_1500_90/419-0145/leki-civetta-pro-ski-poles-detail-2.jpg",
+      "image3": "http://images.evo.com/imgp/enlarge/106647/462738/leki-haute-route-lite-adjustable-ski-poles-2017-black.jpg",
+      "category": "ski sticks",
+      "astana": "1200",
+      "almaty": "1320",
+      "nursultan": "1450",
+      "szymkent": "1220",
+      "id": 6
+    },
+    {
+      "title": "jackets",
+      "description": "jackets",
+      "price": 6000,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.S5Vu9t09y5XDQe77UeiDkgDfEs&pid=Api&P=0",
+      "image2": "https://tse4.mm.bing.net/th?id=OIP.UJBtQ6iaWkphYoW-eK_pMgHaJ3&pid=Api&P=0",
+      "image3": "https://images.the-house.com/oakley-keyhole-2l-goretex-bzd-snowboard-jkt-citrus-17.jpg",
+      "category": "jacket",
+      "astana": "6500",
+      "almaty": "5600",
+      "nursultan": "4700",
+      "szymkent": "3400",
+      "id": 7
+    },
+    {
+      "title": "glasses",
+      "description": "glasses",
+      "price": 1000,
+      "image": "https://cdn.ccs.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/8/8/888392328816-1.1537622945.jpg",
+      "image2": "https://i5.walmartimages.com/asr/c2124608-201b-473d-bac7-bbb545d5a920_1.9b83e5fe85018928f84aef1163a9f05a.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+      "image3": "https://ae01.alicdn.com/kf/HTB1V9nHXJzvK1RkSnfoq6zMwVXaL/anti-fog-double-lens-ski-goggles-snowboard-glasses-men-women-gafas-de-esqui-occhiali-sci-winter.jpg",
+      "category": "glasses",
+      "astana": "1100",
+      "almaty": "1321",
+      "nursultan": "2210",
+      "szymkent": "1400",
+      "id": 8
+    }
+  ]
+}
